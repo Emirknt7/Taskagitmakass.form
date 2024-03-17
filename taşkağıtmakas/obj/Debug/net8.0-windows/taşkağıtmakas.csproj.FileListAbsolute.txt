@@ -1,0 +1,32 @@
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.deps.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.runtimeconfig.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.Form1.resources
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.AssemblyInfo.cs
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\refint\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.genruntimeconfig.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\geleceği yazanlar  101 c# form murat yücedağ\taşkağıtmakas\obj\Debug\net8.0-windows\ref\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.exe
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.deps.json
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.runtimeconfig.json
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\bin\Debug\net8.0-windows\taşkağıtmakas.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.AssemblyInfo.cs
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\refint\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.genruntimeconfig.cache
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\ref\taşkağıtmakas.dll
+C:\Users\Emir\Desktop\Emr\c#\c# kodlar\taşkağıtmakas\obj\Debug\net8.0-windows\taşkağıtmakas.taşkağıtmakas.resources
